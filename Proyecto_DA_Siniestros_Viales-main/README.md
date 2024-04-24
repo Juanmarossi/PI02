@@ -41,7 +41,6 @@ La estructura del proyecto sigue un patrón organizativo claro para facilitar la
 - .gitignore: para especificar archivos y directorios que deben ser ignorados y no incluidos en el repositorio
 - LICENSE: licencia legal bajo la cual se distribuye y comparte el código fuente
 - README.md: descripción y documentación del proyecto
-- create.sql: Creación de la base de datos y de las tablas en mysql que luego utiliza el dashboard.
 - eda.ipynb: Análisis Exploratorio de Datos.
 - etl.ipynb: Extracción, transformación y carga de los datos.
 - requirements.txt: proporciona una lista de dependencias y versiones específicas que el proyecto necesita para funcionar correctamente
